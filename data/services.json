@@ -1,0 +1,142 @@
+[
+    {
+      "id": "66bb1f9a4b3e2a1d10000001",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Website Design Package",
+      "description": "Professional website design tailored for small businesses.",
+      "price": 1200.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000002",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Social Media Marketing",
+      "description": "Full management of Facebook, Instagram, and LinkedIn accounts.",
+      "price": 750.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000003",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "SEO Optimization",
+      "description": "Improve search engine ranking for business websites.",
+      "price": 500.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000004",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Content Writing Package",
+      "description": "10 SEO-optimized blog posts per month.",
+      "price": 400.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000005",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Email Marketing Campaign",
+      "description": "Design and delivery of targeted email campaigns.",
+      "price": 300.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000006",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "IT Support Service",
+      "description": "Remote and onsite technical support.",
+      "price": 200.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000007",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Business Consultation",
+      "description": "One-on-one strategy sessions with experts.",
+      "price": 150.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000008",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "App Development",
+      "description": "Custom mobile application development for iOS and Android.",
+      "price": 5000.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000009",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "E-commerce Setup",
+      "description": "Full Shopify or WooCommerce store setup.",
+      "price": 1000.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000010",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Logo Design",
+      "description": "Custom logo creation with 3 revisions.",
+      "price": 250.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000011",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Photography Service",
+      "description": "Professional product and event photography.",
+      "price": 400.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000012",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Video Production",
+      "description": "Corporate and promotional video creation.",
+      "price": 1500.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000013",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Data Analysis",
+      "description": "Detailed analysis of business performance metrics.",
+      "price": 600.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000014",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Custom Software Development",
+      "description": "End-to-end enterprise software solutions.",
+      "price": 8000.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000015",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Cloud Migration",
+      "description": "Move infrastructure and apps to the cloud.",
+      "price": 3500.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000016",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Cybersecurity Audit",
+      "description": "Comprehensive security assessment.",
+      "price": 900.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000017",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Training Workshop",
+      "description": "Employee skill development training sessions.",
+      "price": 700.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000018",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Event Planning",
+      "description": "End-to-end organization of corporate events.",
+      "price": 1800.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000019",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Influencer Collaboration",
+      "description": "Manage influencer marketing campaigns.",
+      "price": 1200.00
+    },
+    {
+      "id": "66bb1f9a4b3e2a1d10000020",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Translation Service",
+      "description": "Business document translation into multiple languages.",
+      "price": 100.00
+    }
+  ]  

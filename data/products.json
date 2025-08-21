@@ -1,0 +1,162 @@
+[
+    {
+      "id": "77cc2e7d5a1b3f9d20000001",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Premium Office Chair",
+      "type": "Furniture",
+      "description": "Ergonomic chair with lumbar support.",
+      "price": 299.99
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000002",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "4K Ultra HD Monitor",
+      "type": "Electronics",
+      "description": "27-inch HDR 4K display.",
+      "price": 499.50
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000003",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Wireless Headset Pro",
+      "type": "Electronics",
+      "description": "Noise-cancelling wireless headset.",
+      "price": 159.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000004",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Standing Desk",
+      "type": "Furniture",
+      "description": "Adjustable height standing desk.",
+      "price": 450.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000005",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Smartphone X",
+      "type": "Electronics",
+      "description": "Latest-gen smartphone with AI camera.",
+      "price": 999.99
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000006",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Portable Projector",
+      "type": "Electronics",
+      "description": "Compact HD projector with WiFi.",
+      "price": 299.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000007",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Coffee Maker Deluxe",
+      "type": "Appliances",
+      "description": "Programmable coffee maker with grinder.",
+      "price": 180.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000008",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Gaming Laptop Pro",
+      "type": "Electronics",
+      "description": "High-performance gaming laptop.",
+      "price": 1899.99
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000009",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Bluetooth Speaker Max",
+      "type": "Electronics",
+      "description": "Waterproof portable speaker.",
+      "price": 120.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000010",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Laser Printer",
+      "type": "Electronics",
+      "description": "Wireless monochrome laser printer.",
+      "price": 250.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000011",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Office Sofa Set",
+      "type": "Furniture",
+      "description": "Leather sofa set for office lounge.",
+      "price": 800.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000012",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Electric Scooter",
+      "type": "Transport",
+      "description": "Eco-friendly city scooter.",
+      "price": 699.99
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000013",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Smartwatch Pro",
+      "type": "Electronics",
+      "description": "Fitness tracking smartwatch.",
+      "price": 250.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000014",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "3D Printer",
+      "type": "Electronics",
+      "description": "Desktop 3D printer for prototyping.",
+      "price": 550.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000015",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Whiteboard Set",
+      "type": "Office Supplies",
+      "description": "Magnetic whiteboard with markers.",
+      "price": 90.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000016",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Wireless Keyboard",
+      "type": "Electronics",
+      "description": "Slim wireless keyboard and mouse set.",
+      "price": 60.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000017",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "LED Desk Lamp",
+      "type": "Office Supplies",
+      "description": "Adjustable LED desk lamp with USB charging.",
+      "price": 40.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000018",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Shredding Machine",
+      "type": "Office Supplies",
+      "description": "Cross-cut paper shredder.",
+      "price": 150.00
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000019",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "VR Headset",
+      "type": "Electronics",
+      "description": "High-resolution VR headset for gaming and training.",
+      "price": 399.99
+    },
+    {
+      "id": "77cc2e7d5a1b3f9d20000020",
+      "workspace_id": "66aa0d7a9e1c3b2f80000001",
+      "name": "Business Backpack",
+      "type": "Accessories",
+      "description": "Waterproof laptop backpack with charging port.",
+      "price": 70.00
+    }
+  ]  
